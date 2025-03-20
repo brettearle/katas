@@ -18,7 +18,6 @@ Create a minimal weather lookup tool that fetches current weather data for a sin
 - Use vanilla JavaScript only (no frameworks)
 - Handle all network errors gracefully
 - Keep the UI simple - focus on the network interaction
-- Complete in under 1-2 hours
 
 ## Learning Focus
 - Making API requests with fetch() or XMLHttpRequest

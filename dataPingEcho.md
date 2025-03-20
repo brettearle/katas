@@ -24,7 +24,6 @@ Create a lightweight HTTP server that receives and processes incoming requests w
 - Use a server-side language of your choice (Node.js, Python, Ruby, Go, etc.)
 - Don't use full web frameworks - focus on using just the HTTP server modules
 - Implement proper HTTP status codes for different scenarios
-- Complete in under 1 hour
 
 ## Learning Focus
 - Creating an HTTP server from lightweight libraries
