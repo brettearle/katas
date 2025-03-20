@@ -70,10 +70,9 @@ Each kata in this repository follows a consistent structure:
 ## Tips for Effective Practice
 
 - **Start small**: Begin with simpler katas and progress to more complex ones
-- **Stay focused**: Each kata should typically be completable in 1-2 hours
+- **Stay focused**: Keep yourself in deliberate practice mode. Pause the AI assistant.
 - **Embrace constraints**: The limitations in each kata are designed to push your creativity
 - **Practice regularly**: Consistent practice yields better results than occasional intense sessions
-- **Review others' solutions**: After completing a kata, look at how others solved the same problem
 
 Remember, the journey is more important than the destination. The goal is not just to complete each kata, but to improve your skills and understanding through the process.
 
